@@ -1,4 +1,6 @@
 C monte carlo estimate Pi
+C always double precision for R 
+C compile using R CMD SHLIB mc_pi_r.f
 C
       subroutine mc_pi_r(pi)
         double precision pi
