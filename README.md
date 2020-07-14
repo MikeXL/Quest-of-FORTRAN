@@ -24,7 +24,7 @@ of Fortran numerical computation power. Safe data types are *integer*,
 
     C monte carlo estimate Pi
     C R always use double precision 
-    C
+    C23456789
           subroutine mc_pi_r(pi)
             double precision pi
             k = 0
