@@ -1,4 +1,4 @@
-# Quest-of-Fortran
+# Quest-of-FORTRAN
 
 [Here](https://rpubs.com/Mike/fortran_quest) published to rpubs.
 
